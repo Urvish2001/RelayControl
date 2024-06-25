@@ -1,0 +1,9 @@
+name=RelayControl
+version=1.0.0
+author=Your Name
+maintainer=Your Name <your.email@example.com>
+sentence=Library for controlling multiple relays with a push button trigger.
+paragraph=This library allows you to control multiple relays sequentially using a push button.
+category=Timingrepository.type=git
+repository.url=https://github.com/Urvish2001/RelayControl.gitno
+
